@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Sonix
 
 Develop an elegant React.js Music Application. 
 
